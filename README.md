@@ -9,12 +9,12 @@
 Notes:
 
 - Copy the content from some wikipedia page, or from whatever source you prefer, but try to give it a theme. Some ideas:
-  - a blog about your favourite video games
-  - a blog about your favourite tv series
-  - a blog about your favourite cartoons or anime
+  - a blog about your favorite video games
+  - a blog about your favorite tv series
+  - a blog about your favorite cartoons or anime
   - a blog about comics
-  - a blog about your favourite bands
-- Try to use as many things you learned as possile
+  - a blog about your favorite bands
+- Try to use as many things you learned as possible
   - put some floating image in the text
   - add some background color
   - add colored links
